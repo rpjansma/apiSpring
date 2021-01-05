@@ -1,4 +1,4 @@
-package MailSender;
+package com.api.demo.MailSender;
 
 public interface MailSender {
 
